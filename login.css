@@ -1,0 +1,17 @@
+.front-page{
+	position: relative;
+	float: rigth;
+	background-color: whitesmoke;	
+	border-width: 1px;
+	border-style: solid;
+	border-color: grey;	
+	align-content: center;
+	justify-content: center;
+	
+}
+
+.submit{
+	background-color: skyblue;
+	/*border-radius: 40%;*/
+
+}
