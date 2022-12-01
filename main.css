@@ -335,7 +335,7 @@ section:nth-child(2n + 1) {
 }
 
 #skills{
-    height: 15rem;
+    height: 20rem;
     align-items: center;
     justify-content: center;
 }
